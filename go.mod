@@ -191,3 +191,5 @@ require (
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
 	tags.cncf.io/container-device-interface/specs-go v1.1.0 // indirect
 )
+
+replace github.com/hugelgupf/p9 => github.com/kobalt42z/p9 v0.0.0-20261015101353-caabc1c5472d

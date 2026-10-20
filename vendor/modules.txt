@@ -325,7 +325,7 @@ github.com/hashicorp/go-multierror
 # github.com/hashicorp/go-retryablehttp v0.7.8
 ## explicit; go 1.23
 github.com/hashicorp/go-retryablehttp
-# github.com/hugelgupf/p9 v0.4.1
+# github.com/hugelgupf/p9 v0.4.1 => github.com/kobalt42z/p9 v0.0.0-20261015101353-caabc1c5472d
 ## explicit; go 1.21
 github.com/hugelgupf/p9/fsimpl/localfs
 github.com/hugelgupf/p9/fsimpl/templatefs
@@ -1226,3 +1226,4 @@ tags.cncf.io/container-device-interface/pkg/parser
 # tags.cncf.io/container-device-interface/specs-go v1.1.0
 ## explicit; go 1.19
 tags.cncf.io/container-device-interface/specs-go
+# github.com/hugelgupf/p9 => github.com/kobalt42z/p9 v0.0.0-20261015101353-caabc1c5472d
